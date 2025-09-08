@@ -39,7 +39,10 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ahmad!;I'm+a+Flutter+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
 
+
 <!--- stats (start) -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
@@ -240,7 +243,9 @@ Here are some ideas to get you started:
 <!--profile visit count-->
 <div align="center">
   
-<p align="middle"> <img src="https://komarev.com/ghpvc/?username=Anjhell-Reyes&label=Visits7&style=for-the-badge" alt="Anjhell" /> </p>
+ <p align=center>  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Anjhell-Reyes&label=Profile%20views&base=1230&abbreviated=true&color=252da1&style=for-the-badge" alt="sharif-islam96403" /> </p>                         
+</p>
   
 </div>
 
