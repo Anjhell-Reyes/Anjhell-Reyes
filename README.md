@@ -133,11 +133,11 @@ Anjhell-Reyes@github
 
 <!--icons and links-->
 <p align="center">
-	<a href="mailto:anjhellreyes@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Anjhell-Reyes"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/anjhell.reyes.3726613"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="mailto:anjhellreyes@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail" target="_blank" rel="noopener noreferrer"/></a>
+	<a href="https://github.com/Anjhell-Reyes"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub" target="_blank" rel="noopener noreferrer"/></a>
+	<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" target="_blank" rel="noopener noreferrer"/></a>
+	<a href="https://www.facebook.com/anjhell.reyes.3726613"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook" target="_blank" rel="noopener noreferrer"/></a>
+	<a href="https://instagram.com/anjhell.reyes"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram" target="_blank" rel="noopener noreferrer"/></a>
 </p>
 <!-- connect with me (end) -->
 
