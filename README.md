@@ -43,40 +43,16 @@ Anjhell-Reyes@github
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
-
 
 </p>        
 <!--- stats (end) -->
 
 
-<!--h1 without bottom border-->
+<!-- skills (start) -->
 <h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" style="vertical-align: middle; margin-right: 10px;">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" style="margin-right: 10px;">
   Skills
 </h2>
-
-
-
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
-  </a>
-</p>
-
-
-
-<code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
-<code><img height="20" src="https://img.icons8.com/nolan/96/ethereum.png"></code> Solidity
-
-<code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> C++
-<code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
-
-<code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
-
-
-
 
 <div>
   <p style="display: inline-block;" align="center">
@@ -84,107 +60,90 @@ Anjhell-Reyes@github
       <kbd>Programming Languages</kbd>
       <br>
       <br>
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" title="Java"/> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="ts" title="TypeScript" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="JavaScript"/> 
+      <img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/>
+      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" title="Java"/> 
+      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="ts" title="TypeScript" /> 
+      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="JavaScript"/> 
     </kbd>
     <kbd>
-    <kbd>Back-end</kbd>
+      <kbd>Back-end</kbd>
       <br>
       <br>
-      <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="dot-net" title=".Net"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring-boot" title="Spring Boot"/>
-      <img width="30px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest" title="REST API"/>
-	  <img width="30" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>
+      <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="dot-net" title=".Net"/>
+      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring-boot" title="Spring Boot"/>
+      <img width="50px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest" title="REST API"/>
+	  <img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>
 	</kbd>
     <kbd>
-    <kbd>Front-end</kbd>
+      <kbd>Front-end</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="HTML"/> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" title="CSS"/>  
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="angular" title="Angular"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="angular" title="Angular"/>
+      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="HTML"/> 
+      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" title="CSS"/>  
+      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="angular" title="Angular"/>
+      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="angular" title="Angular"/>
     </kbd>
     <kbd>
       <kbd>Database</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL"/>
-      <img width="30px" src="https://cdn.prod.website-files.com/5fabc175035e22a2b52f04d6/62791fb91b8d0cdecaebfd18_sql_server_rds.svg" alt="sqlserver" title="Sql Server"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="mongodb" title="Mongo DB"/>
+      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL"/>
+      <img width="50px" src="https://cdn.prod.website-files.com/5fabc175035e22a2b52f04d6/62791fb91b8d0cdecaebfd18_sql_server_rds.svg" alt="sqlserver" title="Sql Server"/>
+      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="mongodb" title="Mongo DB"/>
     </kbd>
     <br>
     <br>
     <kbd>
-      <kbd>DevOps</kbd>
+      <kbd>DevOps & Deployment</kbd>
       <br>
       <br>
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" title="git" />
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" title="Docker"/>
+      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" title="Docker"/>
+      <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/150px-Microsoft_Azure.svg.png?20211008202712" alt="azure" title="Azure" />
+      <img width="50px" src="https://images.icon-icons.com/3913/PNG/512/ngrok_logo_icon_248373.png" alt="ngrok" title="Ngrok" />
+      <img width="50px" src="https://www.svgrepo.com/show/354513/vercel-icon.svg" alt="vercel" title="Vercel" />
+    </kbd>
+	<kbd>
+      <kbd>IDEs & Editors</kbd>
+      <br>
+      <br>
+      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="VSCode" title="VS Code"/>
+      <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/640px-Visual_Studio_Icon_2022.svg.png" alt="VSStudio" title="VS Studio"/>
+	  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/JetBrains_IntelliJ_IDEA_Product_Icon.svg/640px-JetBrains_IntelliJ_IDEA_Product_Icon.svg.png" alt="intellij" title="Intellij"/>
     </kbd>
     <kbd>
       <kbd>Tools</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="VSCode" title="VS Code"/>
-      <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/640px-Visual_Studio_Icon_2022.svg.png" alt="VSStudio" title="VS Studio"/>
-		<img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/JetBrains_IntelliJ_IDEA_Product_Icon.svg/640px-JetBrains_IntelliJ_IDEA_Product_Icon.svg.png" alt="intellij" title="Intellij"/>
-      <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/640px-GitHub_Invertocat_Logo.svg.png" alt="github" title="Git Hub"/>
-      <img width="30" src="https://api.nuget.org/v3-flatcontainer/epplus/8.1.0/icon" alt="epplus" title="EPPlus"/>
-      <img width="30" src="https://www.jwt.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjwt-flower.f20616b0.png&w=1920&q=75" alt="jwt" title="JWT"/>
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
-      <img width="30px" src="https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png" alt="chatgpt" title="Chat GPT"/>
-  </kbd>
+	  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" title="git" />
+      <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/640px-GitHub_Invertocat_Logo.svg.png" alt="github" title="Git Hub"/>
+      <img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
+      <img width="50" src="https://www.jwt.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjwt-flower.f20616b0.png&w=1920&q=75" alt="jwt" title="JWT"/>
+      <img width="50" src="https://api.nuget.org/v3-flatcontainer/epplus/8.1.0/icon" alt="epplus" title="EPPlus"/>
+      <img width="50px" src="https://avatars.githubusercontent.com/u/4086779?s=48&v=4" alt="mapstruct" title="MapStruct"/>
+    </kbd>
   </p>
 </div>
+<!-- skills (end) -->
 
 
 
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me<img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"></h2></summary>
-  </ul>
-</div>
+<!-- connect with me (start) -->
+<br>
+<h2><img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="40" height="40" style="margin-right: 10px;">Connect With Me</h2>
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
-</p>
-
-<p align="center">
-  <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="mailto:anjhellreyes@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Anjhell-Reyes"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.facebook.com/anjhell.reyes.3726613"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-	
 </p>
-
+<!-- connect with me (end) -->
 
 <!--profile visit count-->
-<div align="center">
-  
- <p align=center>  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Anjhell-Reyes&label=Profile%20views&base=1230&abbreviated=true&color=252da1&style=for-the-badge" alt="sharif-islam96403" /> </p>                         
-</p>
-  
-</div>
-
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=Anjhell-Reyes&label=Profile%20views&base=1230&abbreviated=true&color=252da1&style=for-the-badge" alt="sharif-islam96403" /> 
+</p>                
 
 ----------------------------------------------------------------------
