@@ -6,7 +6,7 @@
 
 </div>
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Anjhell Reyes" width="320" />
+<img align="left" src="https://github.com/Anjhell-Reyes/Anjhell-Reyes/blob/main/anime-programmer.png" alt="Anime Programmer" width="320" />
 <hr>
 
 ```
