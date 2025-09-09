@@ -60,64 +60,66 @@ Anjhell-Reyes@github
     <kbd>
       <kbd>Programming Languages</kbd>
       <br><br>
-      <img width="35" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/>
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" title="Java"/> 
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="ts" title="TypeScript" /> 
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="JavaScript"/> 
+      <img width="40" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/>
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" title="Java"/> 
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="ts" title="TypeScript" /> 
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="JavaScript"/> 
     </kbd>
     <!-- Back-end -->
     <kbd>
       <kbd>Back-end</kbd>
       <br><br>
-      <img width="35" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="dot-net" title=".Net"/>
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring-boot" title="Spring Boot"/>
-      <img width="35" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest" title="REST API"/>
-      <img width="35" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>
+      <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="dot-net" title=".Net"/>
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring-boot" title="Spring Boot"/>
+      <img width="40" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest" title="REST API"/>
+      <img width="40" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>
     </kbd>
     <!-- Front-end -->
     <kbd>
       <kbd>Front-end</kbd>
       <br><br>
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="HTML"/> 
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" title="CSS"/>  
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" title="Bootstrap"/>
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="angular" title="Angular"/>
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="HTML"/> 
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" title="CSS"/>  
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" title="Bootstrap"/>
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="angular" title="Angular"/>
     </kbd>
     <!-- Database -->
     <kbd>
       <kbd>Database</kbd>
       <br><br>
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL"/>
-      <img width="35" src="https://cdn.prod.website-files.com/5fabc175035e22a2b52f04d6/62791fb91b8d0cdecaebfd18_sql_server_rds.svg" alt="sqlserver" title="SQL Server"/>
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="mongodb" title="Mongo DB"/>
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL"/>
+      <img width="40" src="https://cdn.prod.website-files.com/5fabc175035e22a2b52f04d6/62791fb91b8d0cdecaebfd18_sql_server_rds.svg" alt="sqlserver" title="SQL Server"/>
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="mongodb" title="Mongo DB"/>
     </kbd>
+	<br>
+	<br>
     <!-- DevOps & Deployment -->
     <kbd>
       <kbd>DevOps & Deployment</kbd>
       <br><br>
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" title="Docker"/>
-      <img width="35" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" title="Azure" />
-      <img width="35" src="https://images.icon-icons.com/3913/PNG/512/ngrok_logo_icon_248373.png" alt="ngrok" title="Ngrok" />
-      <img width="35" src="https://www.svgrepo.com/show/354513/vercel-icon.svg" alt="vercel" title="Vercel" />
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" title="Docker"/>
+      <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" title="Azure" />
+      <img width="40" src="https://images.icon-icons.com/3913/PNG/512/ngrok_logo_icon_248373.png" alt="ngrok" title="Ngrok" />
+      <img width="40" src="https://www.svgrepo.com/show/354513/vercel-icon.svg" alt="vercel" title="Vercel" />
     </kbd>
     <!-- IDEs & Editors -->
     <kbd>
       <kbd>IDEs & Editors</kbd>
       <br><br>
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" title="VS Code"/>
-      <img width="35" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="VSStudio" title="VS Studio"/>
-      <img width="35" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/JetBrains_IntelliJ_IDEA_Product_Icon.svg" alt="intellij" title="Intellij"/>
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" title="VS Code"/>
+      <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="VSStudio" title="VS Studio"/>
+      <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/JetBrains_IntelliJ_IDEA_Product_Icon.svg" alt="intellij" title="Intellij"/>
     </kbd>
     <!-- Tools -->
     <kbd>
       <kbd>Tools</kbd>
       <br><br>
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" title="git"/>
-      <img width="35" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" alt="github" title="GitHub"/>
-      <img width="35" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="postman" title="Postman"/>
-      <img width="35" src="https://www.jwt.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjwt-flower.f20616b0.png&w=1920&q=75" alt="jwt" title="JWT"/>
-      <img width="35" src="https://api.nuget.org/v3-flatcontainer/epplus/8.1.0/icon" alt="epplus" title="EPPlus"/>
-      <img width="35" src="https://avatars.githubusercontent.com/u/4086779?s=48&v=4" alt="mapstruct" title="MapStruct"/>
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" title="git"/>
+      <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" alt="github" title="GitHub"/>
+      <img width="40" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="postman" title="Postman"/>
+      <img width="40" src="https://www.jwt.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjwt-flower.f20616b0.png&w=1920&q=75" alt="jwt" title="JWT"/>
+      <img width="40" src="https://api.nuget.org/v3-flatcontainer/epplus/8.1.0/icon" alt="epplus" title="EPPlus"/>
+      <img width="40" src="https://avatars.githubusercontent.com/u/4086779?s=48&v=4" alt="mapstruct" title="MapStruct"/>
     </kbd>
   </p>
 </div>
