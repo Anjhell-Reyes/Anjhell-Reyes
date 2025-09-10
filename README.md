@@ -135,7 +135,7 @@ Anjhell-Reyes@github
 
 <div align="center">
 	
-[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/>](mailto:anjhellreyes@gmail.com)
+[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail" target="_blank" rel="noopener noreferrer"/>](mailto:anjhellreyes@gmail.com)
 <a href="https://github.com/Anjhell-Reyes"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/anjhell-reyes-7486a2280/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>
 <a href="https://www.facebook.com/share/17NQ15iKtt/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
